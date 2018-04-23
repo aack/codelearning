@@ -8,6 +8,7 @@ body {
     background: #222;
     color: #eee;
     font-size: 15px;
+    font-family: "Roboto", sans-serif;
 }
 
 p {
@@ -44,11 +45,9 @@ margin-left: 1em;
 
 main {
 	padding: 2em 5%;
-	font-family: "Roboto", sans-serif;
 }
 
 footer {
 	padding: 1em;
 	background-color: grey;
-	font-family: "Roboto", sans-serif;
 }
