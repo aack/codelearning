@@ -70,3 +70,7 @@ footer {
 .shooter {
 	color: red;
 }
+
+.row ol {
+	padding: 5px 30px;
+}
