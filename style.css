@@ -6,7 +6,7 @@
 
 body {
     background: #222;
-    color: #eee;
+    color: black;
     font-size: 15px;
     font-family: "Roboto", sans-serif;
 }
@@ -32,14 +32,18 @@ aside {
     padding: 2rem;
 }
 
-/*p {
+/*p:first; {
 	margin-top: 1em;
 }*/
 
 a {
 	text-decoration: none;
-	color: #00bfff;
+	color: black;
 	font-weight: bold;
+}
+
+a:hover {
+	color: #BAF2BB;
 }
 
 .row {
@@ -72,7 +76,7 @@ main {
 
 footer {
 	padding: 1em;
-	background-color: grey;
+	background-color: white;
 }
 
 #best {
@@ -138,7 +142,7 @@ One Page Layout
 }
 
 #hello {
-	background-color: grey;
+	background-color: #BAF2BB;
 	color: black;
 }
 
@@ -148,12 +152,12 @@ One Page Layout
 }
 
 .blue {
-	background-color: blue;
+	background-color: #BAD7F2;
 	color: black;
 }
 
 .green {
-	background-color: green;
+	background-color: #BAF2D8;
 	color: black;
 }
 
